@@ -1,11 +1,9 @@
-# DSC180A Methodology Assignment 5
-
-## Your Name and Contact Information
+## Name and Contact
 Ansh Mujral
 amujral@ucsd.edu
 
 ## Section and Mentor
-Section: A12
+Section: A12 Tackling Distribution Shifts via Test-Time Adaptation and Optimization 
 Mentor: Jun-Kun Wang
 
 ---
